@@ -56,25 +56,3 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |1 | Unix Fundamentals| [Greg make sure most current: Unix Fundamentals Deck](https://docs.google.com/presentation/d/1mcCqBkziqk33hSipbwtnt-FcA5DG5LcCoxM0Ul698os/edit#slide=id.g5b87c484ed_1_154) | 
 |1 | Environment Setup| [Professional Data Science Environment](https://docs.google.com/presentation/d/140hJ5IwnGifAm3eyxSgN85xd9XqLzwZOHek3uLVT0LY/edit#slide=id.g5b87c484ed_1_154) |
 |1 | Terminal Exercise| [repo_creator](https://github.com/learn-co-students/terminal_cave-seattle-chicago-ds) |
-|2 | Python Part 1| [Python 101 Notebook](https://github.com/learn-co-students/python_101_seattle-chicago-ds)  | 
-|2 | Python Part 2| [Python 201 Notebook](https://github.com/learn-co-students/python_202_seattle-chicago-ds) | 
-|3 | Github | [github deck: Greg make sure current version is linked](https://docs.google.com/presentation/d/1t9RMDX9BAankOSKLsxRKciBZtDDYpRakhd8QsSlP5Ao/edit#slide=id.g65767c560f_1_0)  |  
-|3 | Github | [Github Codealong](https://github.com/learn-co-students/git_chi_sea_ds/)  | 
-|3 | Exploratory Data Analysis | [EDA Deck](https://docs.google.com/presentation/d/1gkCgfGF6vMU6wZv6QOlu6-94tm4jSo-4jumyzFHdBEw/edit#slide=id.g5b87c484ed_1_154)  |  
-|3 | Exploratory Data Analysis| [Data Analysis Notebook](https://github.com/gadamico/data_analysis_built_in_types)  |  
-|4 | Data Viz | [MPL and SNS_notebooks](https://github.com/learn-co-students/data_viz_chi_sea_ds_051120) | 
-|4 | Numpy| [Intro to Numpy notebook](https://github.com/learn-co-students/numpy_seattle-chicago-ds/)| 
-|5 | Pandas p1| [Intro to Pandas notebooks](https://github.com/learn-co-students/pandas1_seattle-chicago-ds) | 
-
-## Module 1, Week 2
-|Day |Subject|Link|
-|------------ |-----|---|
-|1 |Data Cleaning with Pandas |[pandas_p2](https://github.com/learn-co-students/pandas2_seattle-chicago-ds) |
-|1 |Descriptive Stats |Greg to Link|
-|2 |Reshaping Data in Pandas | Greg to Link|
-|2 |Intro to Relational Databases|Greg to Link |
-|3 |SQL Practice | |
-|3 |JSON, APIs, Mongo | [json_api_mongo_notebooks](https://github.com/learn-co-curriculum/json_apis_mongo_seattle-chicago-ds)|
-|4 |Webscraping |[webscraping notebook](https://github.com/learn-co-curriculum/webscraping_ds_chi.git)|
-|4 |Code Challenge Review | |
-|5 |Project Repo | |
