@@ -1,6 +1,16 @@
 # seattle_chicago_ds_051120
 
 Welcome to the Flatiron Data Science Bootcamp.  We are so excited to lead you through this expansive journey.  We will update this repo with links to your lecture and warmup material. <br><br>
+
+[Cohort Link]()
+This is a zoom meeting space for your corhort to use. Consider this your virtual table :)
+
+# Calendar (Central Time)
+<iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_8cd3oqpuhfvj7hplfjbria9590%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+# Calendar (Pactific Time)
+<iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_t1srpaj0clk1dbsomgfmp213n8%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 Maintaining a well organized project directory is an important part of data science. To start practicing your organization, create a directory somewhere on your computer (probably in the top level of ~/Documents) where you will clone the forked versions of the lecture repos.  It could perhaps look like the structure below.
 ```
 chi_sea_ds
