@@ -2,7 +2,7 @@
 
 Welcome to the Flatiron Data Science Bootcamp.  We are so excited to lead you through this expansive journey.  We will update this repo with links to your lecture and warmup material. <br><br>
 
-[Cohort Link]()
+# [Cohort Link - Central Time](https://wework.zoom.com/j/92291566428?pwd=bzNWb0VoRmtlQVpaSnJqeFhZYTFTZz09)
 This is a zoom meeting space for your corhort to use. Consider this your virtual table :)
 
 # Calendar (Central Time)
