@@ -10,7 +10,8 @@ This is a zoom meeting space for your corhort to use. Consider this your virtual
 
 # Calendar (Pactific Time)
 <iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_t1srpaj0clk1dbsomgfmp213n8%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+<br>
+<br>
 Maintaining a well organized project directory is an important part of data science. To start practicing your organization, create a directory somewhere on your computer (probably in the top level of ~/Documents) where you will clone the forked versions of the lecture repos.  It could perhaps look like the structure below.
 ```
 chi_sea_ds
