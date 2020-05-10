@@ -67,7 +67,7 @@ This way, you can make changes to the notebooks on your local computer, then pus
 
 ## Module 1, Week 1
 |Day |Subject|Link|Video|
-|------------ |-----|---|
+|------------ |-----|---|--- |
 |1 | Program Intro|  [Intro_deck](https://docs.google.com/presentation/d/1qpujdemiC5SS2_BIwJf5aypD5kV6UAnsVZo9f78TywY/edit#slide=id.g84719f3c09_0_5)  | |
 |1 | Unix Fundamentals| [Unix Fundamentals Deck](https://docs.google.com/presentation/d/1mcCqBkziqk33hSipbwtnt-FcA5DG5LcCoxM0Ul698os/edit#slide=id.g5b87c484ed_1_154) | |
 |1 | Environment Setup| [Professional Data Science Environment](https://docs.google.com/presentation/d/140hJ5IwnGifAm3eyxSgN85xd9XqLzwZOHek3uLVT0LY/edit#slide=id.g5b87c484ed_1_154) | |
