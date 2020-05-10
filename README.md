@@ -2,8 +2,12 @@
 
 Welcome to the Flatiron Data Science Bootcamp.  We are so excited to lead you through this expansive journey.  We will update this repo with links to your lecture and warmup material. <br><br>
 
-# [Cohort Link - Central Time](https://wework.zoom.com/j/92291566428?pwd=bzNWb0VoRmtlQVpaSnJqeFhZYTFTZz09)
+# [Cohort Link - Chicago](https://wework.zoom.com/j/92291566428?pwd=bzNWb0VoRmtlQVpaSnJqeFhZYTFTZz09)
 This is a zoom meeting space for your corhort to use. Consider this your virtual table :)
+
+# [Cohort Link - Seattle ](https://wework.zoom.com/j/97710512518?pwd%3DZ24rM1FkQkduSTF4R2oyR3FUTUVRdz09&sa=D&ust=1589391696884000&usg=AOvVaw0ReTIjAZWeILYVBzYTALHK)
+This is a zoom meeting space for your corhort to use. Consider this your virtual table :)
+
 
 # Calendar (Central Time)
 <iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_8cd3oqpuhfvj7hplfjbria9590%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
@@ -62,9 +66,9 @@ This way, you can make changes to the notebooks on your local computer, then pus
 **Quick note:** When creating your repo structure, do not initialize or clone reposistories within folders that are themselves git repos.  
 
 ## Module 1, Week 1
-|Day |Subject|Link|
+|Day |Subject|Link|Video|
 |------------ |-----|---|
-|1 | Program Intro|  [Intro_deck](https://docs.google.com/presentation/d/1qpujdemiC5SS2_BIwJf5aypD5kV6UAnsVZo9f78TywY/edit#slide=id.g84719f3c09_0_5)  |
-|1 | Unix Fundamentals| [Unix Fundamentals Deck](https://docs.google.com/presentation/d/1mcCqBkziqk33hSipbwtnt-FcA5DG5LcCoxM0Ul698os/edit#slide=id.g5b87c484ed_1_154) | 
-|1 | Environment Setup| [Professional Data Science Environment](https://docs.google.com/presentation/d/140hJ5IwnGifAm3eyxSgN85xd9XqLzwZOHek3uLVT0LY/edit#slide=id.g5b87c484ed_1_154) |
-|1 | Terminal Exercise| [repo_creator](https://github.com/learn-co-students/terminal_cave-seattle-chicago-ds) |
+|1 | Program Intro|  [Intro_deck](https://docs.google.com/presentation/d/1qpujdemiC5SS2_BIwJf5aypD5kV6UAnsVZo9f78TywY/edit#slide=id.g84719f3c09_0_5)  | |
+|1 | Unix Fundamentals| [Unix Fundamentals Deck](https://docs.google.com/presentation/d/1mcCqBkziqk33hSipbwtnt-FcA5DG5LcCoxM0Ul698os/edit#slide=id.g5b87c484ed_1_154) | |
+|1 | Environment Setup| [Professional Data Science Environment](https://docs.google.com/presentation/d/140hJ5IwnGifAm3eyxSgN85xd9XqLzwZOHek3uLVT0LY/edit#slide=id.g5b87c484ed_1_154) | |
+|1 | Terminal Exercise| [repo_creator](https://github.com/learn-co-students/terminal_cave-seattle-chicago-ds) | |
