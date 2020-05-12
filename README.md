@@ -72,3 +72,6 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |1 | Unix Fundamentals| [Unix Fundamentals Deck](https://docs.google.com/presentation/d/1mcCqBkziqk33hSipbwtnt-FcA5DG5LcCoxM0Ul698os/edit#slide=id.g5b87c484ed_1_154) | |
 |1 | Environment Setup| [Professional Data Science Environment](https://docs.google.com/presentation/d/140hJ5IwnGifAm3eyxSgN85xd9XqLzwZOHek3uLVT0LY/edit#slide=id.g5b87c484ed_1_154) | |
 |1 | Terminal Exercise| [repo_creator](https://github.com/learn-co-students/terminal_cave-seattle-chicago-ds) | |
+|2 | Python Part 1| [Python 101 Notebook](https://github.com/learn-co-students/python_101_seattle-chicago-ds)  |  |
+|2 | Github | [github deck](https://docs.google.com/presentation/d/1t9RMDX9BAankOSKLsxRKciBZtDDYpRakhd8QsSlP5Ao/edit#slide=id.g65767c560f_1_0)  |   |
+|2 | Github | [Github Codealong](https://github.com/learn-co-students/git_chi_sea_ds/)  |  |
