@@ -75,3 +75,6 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |2 | Python Part 1| [Python 101 Notebook](https://github.com/learn-co-students/python_101_seattle-chicago-ds)  |  |
 |2 | Github | [github deck](https://docs.google.com/presentation/d/1t9RMDX9BAankOSKLsxRKciBZtDDYpRakhd8QsSlP5Ao/edit#slide=id.g65767c560f_1_0)  |   |
 |2 | Github | [Github Codealong](https://github.com/learn-co-students/git_chi_sea_ds/)  |  |
+|3 | Python Part 2| [Python 201 Notebook](https://github.com/learn-co-students/python_202_seattle-chicago-ds) |  |
+|3 | Exploratory Data Analysis | [EDA Deck](https://docs.google.com/presentation/d/1gkCgfGF6vMU6wZv6QOlu6-94tm4jSo-4jumyzFHdBEw/edit#slide=id.g5b87c484ed_1_154)  |   |
+|3 | Exploratory Data Analysis| [Data Analysis Notebook](https://github.com/gadamico/data_analysis_built_in_types)  |   |
