@@ -1,4 +1,5 @@
-# seattle_chicago_ds_051120
+
+ seattle_chicago_ds_051120
 
 Welcome to the Flatiron Data Science Bootcamp.  We are so excited to lead you through this expansive journey.  We will update this repo with links to your lecture and warmup material. <br><br>
 
@@ -75,23 +76,15 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |2 | Python Part 1| [Python 101 Notebook](https://github.com/learn-co-students/python_101_seattle-chicago-ds)  |[Python 101](https://www.youtube.com/watch?v=XPpU57plqGs&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=3&t=0s)  |
 |2 | Github | [github deck](https://docs.google.com/presentation/d/1t9RMDX9BAankOSKLsxRKciBZtDDYpRakhd8QsSlP5Ao/edit#slide=id.g65767c560f_1_0)  | [Github Basics_Partial](https://www.youtube.com/watch?v=DkouecudixI&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=4&t=0s)  |
 |2 | Github | [Github Codealong](https://github.com/learn-co-students/git_chi_sea_ds/)  |  |
-<<<<<<< HEAD
 |3 | Python Part 2| [Python 201 Notebook](https://github.com/learn-co-students/python_202_seattle-chicago-ds) |[python_202](https://www.youtube.com/watch?v=tSC_HfSFxvk&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=6&t=0s)  |
 |3 | Exploratory Data Analysis | [EDA Deck](https://docs.google.com/presentation/d/1gkCgfGF6vMU6wZv6QOlu6-94tm4jSo-4jumyzFHdBEw/edit#slide=id.g5b87c484ed_1_154)  |[EDA](https://www.youtube.com/watch?v=TUdfS4-EPuo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=8&t=0s)   |
 |3 | Exploratory Data Analysis| [Data Analysis Notebook](https://github.com/gadamico/data_analysis_built_in_types)  |[EDA_same_as_above](https://www.youtube.com/watch?v=TUdfS4-EPuo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=8&t=0s)   |
 |4 | Data Viz | [MPL and SNS_notebooks](https://github.com/learn-co-students/data_viz_chi_sea_ds_051120) |[data viz](https://www.youtube.com/watch?v=19jCXiwpwRc&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=7&t=0s)  |
 |4 | Numpy| [Intro to Numpy notebook](https://github.com/learn-co-students/numpy_seattle-chicago-ds/)| [numpy](https://www.youtube.com/watch?v=4ttg4-yicOo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=9&t=0s) |
 |5 | Pandas p1| [Intro to Pandas notebooks](https://github.com/learn-co-students/pandas1_seattle-chicago-ds) | [pandas_1](https://www.youtube.com/watch?v=fFYW53QK5QU&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=10&t=0s) |
+| - |Blogs| [Blogs Deck](https://docs.google.com/presentation/d/1gD7Ta1eYuFKPuBZXM7KX0RuGg2xjMcRK2rjbZbdbiyM/edit#slide=id.g522373b1e4_0_0) ||
 
 ## Module 1, Week 2
 |Day |Subject|Link|Video|
 |------------ |-----|---|--- |
 |1 |Data Cleaning with Pandas |[pandas_p2](https://github.com/learn-co-students/pandas2_seattle-chicago-ds) | |
-=======
-|3 | Python Part 2| [Python 201 Notebook](https://github.com/learn-co-students/python_202_seattle-chicago-ds) |  |
-|3 | Exploratory Data Analysis | [EDA Deck](https://docs.google.com/presentation/d/1gkCgfGF6vMU6wZv6QOlu6-94tm4jSo-4jumyzFHdBEw/edit#slide=id.g5b87c484ed_1_154)  |   |
-|3 | Exploratory Data Analysis| [Data Analysis Notebook](https://github.com/gadamico/data_analysis_built_in_types)  |   |
-|4 | Data Viz | [MPL and SNS_notebooks](https://github.com/learn-co-students/data_viz_chi_sea_ds_051120) |  |
-|4 | Numpy| [Intro to Numpy notebook](https://github.com/learn-co-students/numpy_seattle-chicago-ds/)|  |
-|5 | Pandas p1| [Intro to Pandas notebooks](https://github.com/learn-co-students/pandas1_seattle-chicago-ds) |  |
->>>>>>> origin/master
