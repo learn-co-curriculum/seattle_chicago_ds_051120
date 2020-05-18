@@ -68,16 +68,21 @@ This way, you can make changes to the notebooks on your local computer, then pus
 ## Module 1, Week 1
 |Day |Subject|Link|Video|
 |------------ |-----|---|--- |
-|1 | Program Intro|  [Intro_deck](https://docs.google.com/presentation/d/1qpujdemiC5SS2_BIwJf5aypD5kV6UAnsVZo9f78TywY/edit#slide=id.g84719f3c09_0_5)  | |
+|1 | Program Intro|  [Intro_deck](https://docs.google.com/presentation/d/1qpujdemiC5SS2_BIwJf5aypD5kV6UAnsVZo9f78TywY/edit#slide=id.g84719f3c09_0_5)  |[Program Intro](https://www.youtube.com/watch?v=OT9LfBbEQaI&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=2&t=0s) |
 |1 | Unix Fundamentals| [Unix Fundamentals Deck](https://docs.google.com/presentation/d/1mcCqBkziqk33hSipbwtnt-FcA5DG5LcCoxM0Ul698os/edit#slide=id.g5b87c484ed_1_154) | |
-|1 | Environment Setup| [Professional Data Science Environment](https://docs.google.com/presentation/d/140hJ5IwnGifAm3eyxSgN85xd9XqLzwZOHek3uLVT0LY/edit#slide=id.g5b87c484ed_1_154) | |
+|1 | Environment Setup| [Professional Data Science Environment](https://docs.google.com/presentation/d/140hJ5IwnGifAm3eyxSgN85xd9XqLzwZOHek3uLVT0LY/edit#slide=id.g5b87c484ed_1_154) |[Pro DS Envivornment](https://www.youtube.com/watch?v=a-WXyFxP2yQ&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=5&t=0s) |
 |1 | Terminal Exercise| [repo_creator](https://github.com/learn-co-students/terminal_cave-seattle-chicago-ds) | |
-|2 | Python Part 1| [Python 101 Notebook](https://github.com/learn-co-students/python_101_seattle-chicago-ds)  |  |
-|2 | Github | [github deck](https://docs.google.com/presentation/d/1t9RMDX9BAankOSKLsxRKciBZtDDYpRakhd8QsSlP5Ao/edit#slide=id.g65767c560f_1_0)  |   |
+|2 | Python Part 1| [Python 101 Notebook](https://github.com/learn-co-students/python_101_seattle-chicago-ds)  |[Python 101](https://www.youtube.com/watch?v=XPpU57plqGs&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=3&t=0s)  |
+|2 | Github | [github deck](https://docs.google.com/presentation/d/1t9RMDX9BAankOSKLsxRKciBZtDDYpRakhd8QsSlP5Ao/edit#slide=id.g65767c560f_1_0)  | [Github Basics_Partial](https://www.youtube.com/watch?v=DkouecudixI&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=4&t=0s)  |
 |2 | Github | [Github Codealong](https://github.com/learn-co-students/git_chi_sea_ds/)  |  |
-|3 | Python Part 2| [Python 201 Notebook](https://github.com/learn-co-students/python_202_seattle-chicago-ds) |  |
-|3 | Exploratory Data Analysis | [EDA Deck](https://docs.google.com/presentation/d/1gkCgfGF6vMU6wZv6QOlu6-94tm4jSo-4jumyzFHdBEw/edit#slide=id.g5b87c484ed_1_154)  |   |
-|3 | Exploratory Data Analysis| [Data Analysis Notebook](https://github.com/gadamico/data_analysis_built_in_types)  |   |
-|4 | Data Viz | [MPL and SNS_notebooks](https://github.com/learn-co-students/data_viz_chi_sea_ds_051120) |  |
-|4 | Numpy| [Intro to Numpy notebook](https://github.com/learn-co-students/numpy_seattle-chicago-ds/)|  |
-|5 | Pandas p1| [Intro to Pandas notebooks](https://github.com/learn-co-students/pandas1_seattle-chicago-ds) |  |
+|3 | Python Part 2| [Python 201 Notebook](https://github.com/learn-co-students/python_202_seattle-chicago-ds) |[python_202](https://www.youtube.com/watch?v=tSC_HfSFxvk&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=6&t=0s)  |
+|3 | Exploratory Data Analysis | [EDA Deck](https://docs.google.com/presentation/d/1gkCgfGF6vMU6wZv6QOlu6-94tm4jSo-4jumyzFHdBEw/edit#slide=id.g5b87c484ed_1_154)  |[EDA](https://www.youtube.com/watch?v=TUdfS4-EPuo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=8&t=0s)   |
+|3 | Exploratory Data Analysis| [Data Analysis Notebook](https://github.com/gadamico/data_analysis_built_in_types)  |[EDA_same_as_above](https://www.youtube.com/watch?v=TUdfS4-EPuo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=8&t=0s)   |
+|4 | Data Viz | [MPL and SNS_notebooks](https://github.com/learn-co-students/data_viz_chi_sea_ds_051120) |[data viz](https://www.youtube.com/watch?v=19jCXiwpwRc&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=7&t=0s)  |
+|4 | Numpy| [Intro to Numpy notebook](https://github.com/learn-co-students/numpy_seattle-chicago-ds/)| [numpy](https://www.youtube.com/watch?v=4ttg4-yicOo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=9&t=0s) |
+|5 | Pandas p1| [Intro to Pandas notebooks](https://github.com/learn-co-students/pandas1_seattle-chicago-ds) | [pandas_1](https://www.youtube.com/watch?v=fFYW53QK5QU&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=10&t=0s) |
+
+## Module 1, Week 2
+|Day |Subject|Link|Video|
+|------------ |-----|---|--- |
+|1 |Data Cleaning with Pandas |[pandas_p2](https://github.com/learn-co-students/pandas2_seattle-chicago-ds) | |
