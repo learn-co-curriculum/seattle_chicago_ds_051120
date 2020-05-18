@@ -13,7 +13,7 @@ This is a zoom meeting space for your corhort to use. Consider this your virtual
 <iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_8cd3oqpuhfvj7hplfjbria9590%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Calendar (Pacific Time)
-<iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_t1srpaj0clk1dbsomgfmp213n8%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_t1srpaj0clk1dbsomgfmp213n8%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 <br>
 <br>
 Maintaining a well organized project directory is an important part of data science. To start practicing your organization, create a directory somewhere on your computer (probably in the top level of ~/Documents) where you will clone the forked versions of the lecture repos.  It could perhaps look like the structure below.
@@ -75,6 +75,7 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |2 | Python Part 1| [Python 101 Notebook](https://github.com/learn-co-students/python_101_seattle-chicago-ds)  |[Python 101](https://www.youtube.com/watch?v=XPpU57plqGs&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=3&t=0s)  |
 |2 | Github | [github deck](https://docs.google.com/presentation/d/1t9RMDX9BAankOSKLsxRKciBZtDDYpRakhd8QsSlP5Ao/edit#slide=id.g65767c560f_1_0)  | [Github Basics_Partial](https://www.youtube.com/watch?v=DkouecudixI&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=4&t=0s)  |
 |2 | Github | [Github Codealong](https://github.com/learn-co-students/git_chi_sea_ds/)  |  |
+<<<<<<< HEAD
 |3 | Python Part 2| [Python 201 Notebook](https://github.com/learn-co-students/python_202_seattle-chicago-ds) |[python_202](https://www.youtube.com/watch?v=tSC_HfSFxvk&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=6&t=0s)  |
 |3 | Exploratory Data Analysis | [EDA Deck](https://docs.google.com/presentation/d/1gkCgfGF6vMU6wZv6QOlu6-94tm4jSo-4jumyzFHdBEw/edit#slide=id.g5b87c484ed_1_154)  |[EDA](https://www.youtube.com/watch?v=TUdfS4-EPuo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=8&t=0s)   |
 |3 | Exploratory Data Analysis| [Data Analysis Notebook](https://github.com/gadamico/data_analysis_built_in_types)  |[EDA_same_as_above](https://www.youtube.com/watch?v=TUdfS4-EPuo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=8&t=0s)   |
@@ -86,3 +87,11 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |Day |Subject|Link|Video|
 |------------ |-----|---|--- |
 |1 |Data Cleaning with Pandas |[pandas_p2](https://github.com/learn-co-students/pandas2_seattle-chicago-ds) | |
+=======
+|3 | Python Part 2| [Python 201 Notebook](https://github.com/learn-co-students/python_202_seattle-chicago-ds) |  |
+|3 | Exploratory Data Analysis | [EDA Deck](https://docs.google.com/presentation/d/1gkCgfGF6vMU6wZv6QOlu6-94tm4jSo-4jumyzFHdBEw/edit#slide=id.g5b87c484ed_1_154)  |   |
+|3 | Exploratory Data Analysis| [Data Analysis Notebook](https://github.com/gadamico/data_analysis_built_in_types)  |   |
+|4 | Data Viz | [MPL and SNS_notebooks](https://github.com/learn-co-students/data_viz_chi_sea_ds_051120) |  |
+|4 | Numpy| [Intro to Numpy notebook](https://github.com/learn-co-students/numpy_seattle-chicago-ds/)|  |
+|5 | Pandas p1| [Intro to Pandas notebooks](https://github.com/learn-co-students/pandas1_seattle-chicago-ds) |  |
+>>>>>>> origin/master
