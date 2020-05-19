@@ -87,4 +87,5 @@ This way, you can make changes to the notebooks on your local computer, then pus
 ## Module 1, Week 2
 |Day |Subject|Link|Video|
 |------------ |-----|---|--- |
-|1 |Data Cleaning with Pandas |[pandas_p2](https://github.com/learn-co-students/pandas2_seattle-chicago-ds) | |
+|1 |Data Cleaning with Pandas |[pandas_p2](https://github.com/learn-co-students/pandas2_seattle-chicago-ds) |  |   
+|1 |Descriptive Stats|[descriptive stats](https://github.com/learn-co-students/descriptive_stats_seattle-chicago-ds) |  |   
