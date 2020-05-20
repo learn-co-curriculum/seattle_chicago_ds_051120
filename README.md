@@ -89,3 +89,6 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |------------ |-----|---|--- |
 |1 |Data Cleaning with Pandas |[pandas_p2](https://github.com/learn-co-students/pandas2_seattle-chicago-ds) |  |   
 |1 |Descriptive Stats|[descriptive stats](https://github.com/learn-co-students/descriptive_stats_seattle-chicago-ds) |  |   
+|2 |Reshaping Data in Pandas |[reshaping](https://github.com/learn-co-students/small_multiples_and_more_pandas_seattle-chicago-ds)| |
+|2 |Intro to Relational Databases|[rdbms](https://github.com/learn-co-students/rdbms_seattle-chicago-ds)| |
+|3 |SQL Practice |[sql_whiteboard](https://github.com/learn-co-students/seattle_chicago-sql-whiteboarding) | |
