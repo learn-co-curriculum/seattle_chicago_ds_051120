@@ -88,7 +88,8 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |Day |Subject|Link|Video|
 |------------ |-----|---|--- |
 |1 |Data Cleaning with Pandas |[pandas_p2](https://github.com/learn-co-students/pandas2_seattle-chicago-ds) |  |   
-|1 |Descriptive Stats|[descriptive stats](https://github.com/learn-co-students/descriptive_stats_seattle-chicago-ds) |  |   
-|2 |Reshaping Data in Pandas |[reshaping](https://github.com/learn-co-students/small_multiples_and_more_pandas_seattle-chicago-ds)| |
-|2 |Intro to Relational Databases|[rdbms](https://github.com/learn-co-students/rdbms_seattle-chicago-ds)| |
-|3 |SQL Practice |[sql_whiteboard](https://github.com/learn-co-students/seattle_chicago-sql-whiteboarding) | |
+|1 |Descriptive Stats|[descriptive stats](https://github.com/learn-co-students/descriptive_stats_seattle-chicago-ds) |[decriptive_stats](https://www.youtube.com/watch?v=4sjDGs1MlOw&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=10)  |   
+|2 |Reshaping Data in Pandas |[reshaping](https://github.com/learn-co-students/small_multiples_and_more_pandas_seattle-chicago-ds)|[small_multiples](https://www.youtube.com/watch?v=HFknjzbB7aI&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=11) |
+|2 |Intro to Relational Databases|[rdbms](https://github.com/learn-co-students/rdbms_seattle-chicago-ds)|[sql_video](https://www.youtube.com/watch?v=v0mQYXA_7qM&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=12) |
+|3 |SQL Practice |[sql_whiteboard](https://github.com/learn-co-students/seattle_chicago-sql-whiteboarding) | 
+|3 |json api mongo |[json_api_mongo](https://github.com/learn-co-students/json_apis_mongo_seattle-chicago-ds)|
