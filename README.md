@@ -92,5 +92,5 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |2 |Reshaping Data in Pandas |[reshaping](https://github.com/learn-co-students/small_multiples_and_more_pandas_seattle-chicago-ds)|[small_multiples](https://www.youtube.com/watch?v=HFknjzbB7aI&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=11) |
 |2 |Intro to Relational Databases|[rdbms](https://github.com/learn-co-students/rdbms_seattle-chicago-ds)|[sql_video](https://www.youtube.com/watch?v=v0mQYXA_7qM&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=12) |
 |3 |SQL Practice |[sql_whiteboard](https://github.com/learn-co-students/seattle_chicago-sql-whiteboarding) | 
-|3 |json api mongo |[json_api_mongo](https://github.com/learn-co-students/json_apis_mongo_seattle-chicago-ds)|
-|4 |webscraping|[webscraping](https://github.com/learn-co-students/webscraping_seattle-chicago-ds)|
+|3 |json api mongo |[json_api_mongo](https://github.com/learn-co-students/json_apis_mongo_seattle-chicago-ds)|[json-api-mongo-video](https://www.youtube.com/watch?v=aHCMBigAsBo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=15&t=0s)|
+|4 |webscraping|[webscraping](https://github.com/learn-co-students/webscraping_seattle-chicago-ds)||
