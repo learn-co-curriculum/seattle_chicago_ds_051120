@@ -94,3 +94,9 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |3 |SQL Practice |[sql_whiteboard](https://github.com/learn-co-students/seattle_chicago-sql-whiteboarding) | 
 |3 |json api mongo |[json_api_mongo](https://github.com/learn-co-students/json_apis_mongo_seattle-chicago-ds)|[json-api-mongo-video](https://www.youtube.com/watch?v=aHCMBigAsBo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=15&t=0s)|
 |4 |webscraping|[webscraping](https://github.com/learn-co-students/webscraping_seattle-chicago-ds)|[webscraping_video](https://www.youtube.com/watch?v=uZJ8ML1qTxQ&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=16&t=0s)|
+
+## Module 2, Week 1
+|Day |Subject|Link|Video|
+|------------ |-----|---|----|
+|1 |Intro|[scenarios](https://docs.google.com/presentation/d/15ZHm3ZNgmGC8POcHk2dsPypmmth2ru03ZS_U87DVb44/edit#slide=id.g8067c3178c_0_0) | |
+
