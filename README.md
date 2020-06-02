@@ -98,5 +98,6 @@ This way, you can make changes to the notebooks on your local computer, then pus
 ## Module 2, Week 1
 |Day |Subject|Link|Video|
 |------------ |-----|---|----|
-|1 |Intro|[scenarios](https://docs.google.com/presentation/d/15ZHm3ZNgmGC8POcHk2dsPypmmth2ru03ZS_U87DVb44/edit#slide=id.g8067c3178c_0_0) | |
-
+|1 |Intro|[scenarios](https://github.com/learn-co-students/probability_seattle-chicago-ds) | |
+|1 |Probabilities and Combinatorics|[prob_and_combs](https://github.com/learn-co-students/probability_seattle-chicago-ds) | |
+|2 | Distributions | [distributions](https://github.com/learn-co-students/distributions_sea-chi-ds/)| | 
