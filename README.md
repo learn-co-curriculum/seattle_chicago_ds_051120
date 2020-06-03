@@ -101,3 +101,4 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |1 |Intro|[scenarios](https://github.com/learn-co-students/probability_seattle-chicago-ds) | |
 |1 |Probabilities and Combinatorics|[prob_and_combs](https://github.com/learn-co-students/probability_seattle-chicago-ds) | |
 |2 | Distributions | [distributions](https://github.com/learn-co-students/distributions_sea-chi-ds/)| | 
+|3 | Sampling and CLT| [sampling_and_clt](https://github.com/learn-co-students/distributions_sea-chi-ds/)| | 
