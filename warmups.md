@@ -2,9 +2,11 @@ This README.md has links to our morning warmups.
 
 | Mod | Week | Day | Link                                                                                    | Notes |
 | --- | ---- | --- | ------------------------------- | ----- |
-| 1   | 1    | 2   |[arrays](https://github.com/learn-co-students/warmup-array-aggregation)|  | 
-| 1   | 1    | 4   |[pokemon_dict](https://github.com/learn-co-curriculum/warmup-pokemon-dictionary)|  | 
-| 1   | 1    | 5   |[numpy_pi](https://github.com/learn-co-students/numpy_pi_warmup_chi_ds)|  | 
+| 1   | 1    | 1   | No Warmup                       |       |
+| 1   | 1    | 2   |[Terminal](https://github.com/learn-co-curriculum/terminal_warmup_2_chi_ds/tree/master)|  | 
+| 1   | 1    | 3   |[Array Aggregation](https://github.com/learn-co-students/warmup-array-aggregation)|  | 
+| 1   | 1    | 4   |[Pokemon Dictionary Parsing](https://github.com/learn-co-curriculum/warmup-pokemon-dictionary)|  |
+| 1   | 1    | 5   |[Numpy & Viz](https://github.com/learn-co-students/numpy_pi_warmup_chi_ds)|  | 
 | *** | **** | *** | ******************************* | ***** |
 | 1   | 2    | 1   |[pandas_1](https://github.com/learn-co-curriculum/warmup-pandas-1) |  | 
 | 1   | 2    | 2   |[pandas_2](https://github.com/learn-co-curriculum/dsc-chi-warmup-pandas2)|  | 
