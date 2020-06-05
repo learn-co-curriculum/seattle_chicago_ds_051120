@@ -103,4 +103,4 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |2 | Distributions | [distributions](https://github.com/learn-co-students/distributions_sea-chi-ds/)| | 
 |3 | Sampling and CLT| [sampling_and_clt](https://github.com/learn-co-students/distributions_sea-chi-ds/)| | 
 | 4 | Confidence Intervals|[CI](https://github.com/learn-co-students/on_confidence_intervals_seattle-chicago-ds)||
-| 4 | Hypothesis Testing| [Hypo_test](https://github.com/learn-co-students/hypothesis_testing_seattle-chicago-ds)||
+| 4 | Hypothesis Testing| [Hypo_test](https://github.com/learn-co-students/hypothesis_testing_seattle-chicago-ds)|[hypo_test_video](https://www.youtube.com/watch?v=-VmZvryL1Ls&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=21&t=0s)|
