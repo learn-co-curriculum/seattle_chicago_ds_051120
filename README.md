@@ -99,7 +99,7 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |Day |Subject|Link|Video|
 |------------ |-----|---|----|
 |1 |Intro|[scenarios](https://github.com/learn-co-students/probability_seattle-chicago-ds) | |
-|1 |Probabilities and Combinatorics|[prob_and_combs](https://github.com/learn-co-students/probability_seattle-chicago-ds) | |
+|1 |Probabilities and Combinatorics|[prob_and_combs](https://github.com/learn-co-students/probability_seattle-chicago-ds) |[probability_video](https://www.youtube.com/watch?v=Hg0ROW-3W9g&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=17&t=0s) |
 |2 | Distributions | [distributions](https://github.com/learn-co-students/distributions_sea-chi-ds/)|[distributions_p1](https://www.youtube.com/watch?v=hgrYgE6W-S8&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=18&t=0s)| 
 |2 | Distributions | [distributions](https://github.com/learn-co-students/distributions_sea-chi-ds/)|[distributions_p2](https://www.youtube.com/watch?v=c-qCVZChdG4&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=25&t=0s) | 
 |3 | Sampling and CLT| [sampling_and_clt](https://github.com/learn-co-students/distributions_sea-chi-ds/)|[sampling_and_cli_video](https://www.youtube.com/watch?v=sL79yi_XVmM&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=19&t=0s) | 
