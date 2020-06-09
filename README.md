@@ -111,3 +111,4 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |Day |Subject|Link|Video|
 |------------ |-----|---|----|
 |1| Bayes Theorem| [Bayes](https://github.com/learn-co-students/bayesian_reasoning_seattle-chicago-ds)||
+|2| ANOVA | [ANOVA](https://github.com/learn-co-students/ANOVA_seattle-chicago-dsc) ||
