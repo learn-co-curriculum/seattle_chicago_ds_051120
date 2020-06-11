@@ -112,3 +112,7 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |------------ |-----|---|----|
 |1| Bayes Theorem| [Bayes](https://github.com/learn-co-students/bayesian_reasoning_seattle-chicago-ds)||
 |2| ANOVA | [ANOVA](https://github.com/learn-co-students/ANOVA_seattle-chicago-dsc) ||
+|2| Linear Regression | [LR](https://github.com/learn-co-students/linear_regression_seattle-ds)||
+|3| Linear Regression | [LR](https://docs.google.com/presentation/d/1DwCvkgzA0PmdwZJAqD82QJnwcR_AnGcFM74s5QxpDkQ/edit?usp=sharing) ||
+|3| Bootstrapping| [Bootstrap](https://github.com/learn-co-students/bootstrapping_seattle-ds) ||
+|4| LR Pair| [lr_pair](https://github.com/learn-co-students/linear_regression_pair-sea-chi-ds) ||
