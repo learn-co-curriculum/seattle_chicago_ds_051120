@@ -110,9 +110,9 @@ This way, you can make changes to the notebooks on your local computer, then pus
 ## Module 2, Week 2
 |Day |Subject|Link|Video|
 |------------ |-----|---|----|
-|1| Bayes Theorem| [Bayes](https://github.com/learn-co-students/bayesian_reasoning_seattle-chicago-ds)||
-|2| ANOVA | [ANOVA](https://github.com/learn-co-students/ANOVA_seattle-chicago-dsc) ||
-|2| Linear Regression | [LR](https://github.com/learn-co-students/linear_regression_seattle-ds)||
-|3| Linear Regression | [LR](https://docs.google.com/presentation/d/1DwCvkgzA0PmdwZJAqD82QJnwcR_AnGcFM74s5QxpDkQ/edit?usp=sharing) ||
-|3| Bootstrapping| [Bootstrap](https://github.com/learn-co-students/bootstrapping_seattle-ds) ||
-|4| LR Pair| [lr_pair](https://github.com/learn-co-students/linear_regression_pair-sea-chi-ds) ||
+|1| Bayes Theorem| [Bayes](https://github.com/learn-co-students/bayesian_reasoning_seattle-chicago-ds)|[Bayes_video](https://www.youtube.com/watch?v=whxnBCAJdvc&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=26)|
+|2| ANOVA | [ANOVA](https://github.com/learn-co-students/ANOVA_seattle-chicago-dsc) |[ANOVA_video](https://www.youtube.com/watch?v=6n6V61l6Bf4&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=29&t=0s)|
+|2| Linear Regression | [LR](https://github.com/learn-co-students/linear_regression_seattle-ds)|[LR_p1_video](https://www.youtube.com/watch?v=32N8Vxh1U5Q&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=29)|
+|3| Linear Regression | [LR_p2_video](https://docs.google.com/presentation/d/1DwCvkgzA0PmdwZJAqD82QJnwcR_AnGcFM74s5QxpDkQ/edit?usp=sharing) |[LR_p1](https://www.youtube.com/watch?v=N7hfcg7Xte8&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=30)|
+|3| Bootstrapping| [Bootstrap](https://github.com/learn-co-students/bootstrapping_seattle-ds) |[bootstrap_vid](https://www.youtube.com/watch?v=Cbjm9UGygEk&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=31)|
+|4| LR Pair| [lr_pair](https://github.com/learn-co-students/linear_regression_pair-sea-chi-ds) |
