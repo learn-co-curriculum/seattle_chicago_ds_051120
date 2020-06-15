@@ -94,6 +94,11 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |3 |SQL Practice |[sql_whiteboard](https://github.com/learn-co-students/seattle_chicago-sql-whiteboarding) | 
 |3 |json api mongo |[json_api_mongo](https://github.com/learn-co-students/json_apis_mongo_seattle-chicago-ds)|[json-api-mongo-video](https://www.youtube.com/watch?v=aHCMBigAsBo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=15&t=0s)|
 |4 |webscraping|[webscraping](https://github.com/learn-co-students/webscraping_seattle-chicago-ds)|[webscraping_video](https://www.youtube.com/watch?v=uZJ8ML1qTxQ&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=16&t=0s)|
+| 5| Quality Deliverables| [Qaulity Deliverables](https://github.com/learn-co-students/quality-deliverables-chi-seattle-051120)||
+|5 |Project Repo |[mod 1 project](https://github.com/learn-co-students/mod-1-project-chicago-seattle-ds-051120) | |
+
+
+
 
 ## Module 2, Week 1
 |Day |Subject|Link|Video|
@@ -116,3 +121,4 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |3| Linear Regression | [LR_deck](https://docs.google.com/presentation/d/1DwCvkgzA0PmdwZJAqD82QJnwcR_AnGcFM74s5QxpDkQ/edit?usp=sharing) |[LR_p1](https://www.youtube.com/watch?v=N7hfcg7Xte8&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=30)|
 |3| Bootstrapping| [Bootstrap](https://github.com/learn-co-students/bootstrapping_seattle-ds) |[bootstrap_vid](https://www.youtube.com/watch?v=Cbjm9UGygEk&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=31)|
 |4| LR Pair| [lr_pair](https://github.com/learn-co-students/linear_regression_pair-sea-chi-ds)|
+|5| Mod 2 Project| [mod 2 project repo](https://github.com/learn-co-students/mod-2-project-chicago-seattle-ds-051120)||
