@@ -126,5 +126,5 @@ This way, you can make changes to the notebooks on your local computer, then pus
 ## Module 3, Week 1
 |Day |Subject|Link|Video|
 |------------ |-----|---|----|
-|1|Intro to Machine Learning |[Intro Deck](https://docs.google.com/presentation/d/1H8KZ91TAZxwbzqPGUvNlZbyU1PNhlQDHBlqcvIN3oOY/edit?usp=sharing) ||
-|1|OOP|[oop](https://github.com/learn-co-students/oop_sea-chi-dsc)||
+|1|Intro to Machine Learning |[Intro Deck](https://docs.google.com/presentation/d/1H8KZ91TAZxwbzqPGUvNlZbyU1PNhlQDHBlqcvIN3oOY/edit?usp=sharing) |[ML_and_oop_p1](https://www.youtube.com/watch?v=o5y_Yg9j--c&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=33&t=0s)|
+|1|OOP|[oop](https://github.com/learn-co-students/oop_sea-chi-dsc)|[oop_vid_p2](https://www.youtube.com/watch?v=TM8NYlYSRmo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=34&t=0s)|
