@@ -130,7 +130,7 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |1|OOP|[oop](https://github.com/learn-co-students/oop_sea-chi-dsc)|[oop_vid_p2](https://www.youtube.com/watch?v=TM8NYlYSRmo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=34&t=0s)|
 | 2 | Predictive Regression Workflow | [repo](https://github.com/learn-co-students/predictive-regression-workflow-seattle-chicago-ds-051120) | [video](https://wework.zoom.us/rec/play/6MZ7JLiprWg3SIec4QSDBacrW9TsK_-sh3JIqfRZnU20UHYAYQemMLYXNuPWig42AJ1uzcx0hKbwUy-x) |
 | 2 | Math for Data Scientists | [repo](https://github.com/learn-co-students/math_for_ds_seattle-chicago-ds) | [video](https://youtu.be/uCUYEhxidWo) |
-|3|Bias Variance Tradeoff|[bvt](https://github.com/learn-co-students/bias_variance-sea-chi-ds/tree/master)||
+|3|Bias Variance Tradeoff|[bvt](https://github.com/learn-co-students/bias_variance-sea-chi-ds/tree/master)|[bvt_video](https://www.youtube.com/watch?v=s_5Xoo25gMA&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=40&t=0s)|
 |3|Regularization|[Regularization](https://github.com/learn-co-students/regularization_crossvalidation_seattle-chicago-ds/) |[reg](https://www.youtube.com/watch?v=_zwU_RaAabk&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=36&t=0s)|
 |4|Logistic|[logistic](https://github.com/learn-co-students/logistic_sea-chi-ds)|[log_vid](https://www.youtube.com/watch?v=gGzjQSiHD5M&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=37&t=0s)|
 |4|Classification Metrics|[classification metrics](https://github.com/learn-co-students/predictive-classification-workflow-chicago-seattle-ds-051120)|[metrics](https://www.youtube.com/watch?v=v0rJSL53A7I&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=38&t=0s)|
@@ -141,4 +141,4 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |Day |Subject|Link|Video|
 |------------ |-----|---|----|
 |1|KNN|[KNN](https://github.com/learn-co-students/kneighbors_sea-chi-ds/tree/master)||
-
+|2|Decision Trees|[DTrees](https://github.com/learn-co-students/dtrees_sea-chi-ds/tree/master)| |
