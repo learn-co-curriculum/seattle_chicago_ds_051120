@@ -141,5 +141,6 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |Day |Subject|Link|Video|
 |------------ |-----|---|----|
 |1|KNN|[KNN](https://github.com/learn-co-students/kneighbors_sea-chi-ds/tree/master)|[knn_video](https://www.youtube.com/watch?v=EDovuMMFD_I&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=41&t=0s) || 
-|1 |Decision Trees|[DTrees](https://github.com/learn-co-students/dtrees_sea-chi-ds/tree/master)| |
-|2 |Bagging|[Bagging_notebook](https://github.com/learn-co-students/bagging_seattle-chicago-ds/)   | |
+|1 |Decision Trees|[DTrees](https://github.com/learn-co-students/dtrees_sea-chi-ds/tree/master)|[video](https://www.youtube.com/watch?v=UM7bDZODtyA&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=41&t=0s)|
+|2 |Bagging|[Bagging_notebook](https://github.com/learn-co-students/bagging_seattle-chicago-ds/)   |[video](https://www.youtube.com/watch?v=NxaRxgHMIgE&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=42&t=0s) |
+|3 | Boosting |[boosting_notebook](https://github.com/learn-co-students/boosting_seattle-chicago-ds) |[video](https://www.youtube.com/watch?v=w9Yy9mBRrRo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=43&t=0s) |
