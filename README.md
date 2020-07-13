@@ -134,7 +134,7 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |3|Regularization|[Regularization](https://github.com/learn-co-students/regularization_crossvalidation_seattle-chicago-ds/) |[reg](https://www.youtube.com/watch?v=_zwU_RaAabk&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=36&t=0s)|
 |4|Logistic|[logistic](https://github.com/learn-co-students/logistic_sea-chi-ds)|[log_vid](https://www.youtube.com/watch?v=gGzjQSiHD5M&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=37&t=0s)|
 |4|Classification Metrics|[classification metrics](https://github.com/learn-co-students/predictive-classification-workflow-chicago-seattle-ds-051120)|[metrics](https://www.youtube.com/watch?v=v0rJSL53A7I&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=38&t=0s)|
-|5|Classification Workflow|[classification wf](https://github.com/learn-co-students/predictive-classification-workflow-chicago-seattle-ds-051120)||
+|5|Classification Workflow|[classification wf](https://github.com/learn-co-students/predictive-classification-workflow-chicago-seattle-ds-051120)| [workflow](https://youtu.be/WmKrvr7gV68)|
 |5|Pickles and Pipelines|[pandp](https://github.com/learn-co-students/pickles-pipelines-dsc-sea-chi-051120/blob/master/notebooks/index.ipynb)||
 
 ## Module 3, Week 2
