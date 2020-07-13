@@ -149,5 +149,5 @@ This way, you can make changes to the notebooks on your local computer, then pus
 ## Module 4, Week 1
 |Day |Subject|Link|Video|
 |------------ |-----|---|----|
-|1| Time Series p1 |[ts_p1_repo](https://github.com/learn-co-students/timeseries_chi-sea-dsc) || 
-|1| Time Series p2|[ts_model_repo](https://github.com/learn-co-students/time_series_models-chi-sea-dsc.git) |
+|1| Time Series p1 |[ts_p1_repo](https://github.com/learn-co-students/timeseries_chi-sea-dsc/tree/master) || 
+|1| Time Series p2|[ts_model_repo](https://github.com/learn-co-students/time_series_models-chi-sea-dsc/tree/master) ||
