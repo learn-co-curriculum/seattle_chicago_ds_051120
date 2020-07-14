@@ -151,3 +151,5 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |1| Time Series p1 |[ts_p1_repo](https://github.com/learn-co-students/timeseries_chi-sea-dsc) || 
 |1| Time Series p2|[ts_model_repo](https://github.com/learn-co-students/time_series_models-chi-sea-dsc.git) |
 |2| NLP Feature Extraction|[nlp_p1](https://github.com/learn-co-students/nlp_p1_chi-sea-dsc)||
+|2| NLP Modeling|[nlp_modeling](https://github.com/learn-co-students/nlp_modeling-chi-sea-dsc)||
+
