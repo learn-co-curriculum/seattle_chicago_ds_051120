@@ -149,7 +149,12 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |Day |Subject|Link|Video|
 |------------ |-----|---|----|
 |1| Time Series p1 |[ts_p1_repo](https://github.com/learn-co-students/timeseries_chi-sea-dsc) || 
-|1| Time Series p2|[ts_model_repo](https://github.com/learn-co-students/time_series_models-chi-sea-dsc.git) |
-|2| NLP Feature Extraction|[nlp_p1](https://github.com/learn-co-students/nlp_p1_chi-sea-dsc)||
+|1| Time Series p2|[ts_model_repo](https://github.com/learn-co-students/time_series_models-chi-sea-dsc.git) |[ts_model_video](https://www.youtube.com/watch?v=pgsgKAEYTZs&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=47&t=0s)
+|2| NLP Feature Extraction|[nlp_p1](https://github.com/learn-co-students/nlp_p1_chi-sea-dsc)|[nlp_p1_video](https://www.youtube.com/watch?v=mr9rwnT8DZg&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=48&t=0s)|
 |2| NLP Modeling|[nlp_modeling](https://github.com/learn-co-students/nlp_modeling-chi-sea-dsc)||
+|3|PCA|[PCA repo](https://github.com/learn-co-students/principal_component_analysis_seattle-chicago-ds)|[PCA_video](https://www.youtube.com/watch?v=Nk-usDO_ZZY&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=50&t=0s)|
+|4|KMeans clustering|[Kmeans](https://github.com/learn-co-students/clustering_seattle-chicago-ds)|[kmeans video](https://www.youtube.com/watch?v=aXGJxRfM0Zg&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=51&t=0s)|
+|4|HAC Clustering|[HAC](https://github.com/learn-co-students/clustering_seattle-chicago-ds)||
+|5||[classification_bakeoff](https://github.com/learn-co-students/classification_bakeoff_sea-chi-dsc)||
+
 
