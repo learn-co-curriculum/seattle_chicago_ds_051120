@@ -158,8 +158,9 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |5||[classification_bakeoff](https://github.com/learn-co-students/classification_bakeoff_sea-chi-dsc)||
 
 
-## Module 4, Week 1
+## Module 4, Week 2
 |Day |Subject|Link|Video|
 |------------ |-----|---|----|
 |1|Recommendation Systems|[rec_notebook](https://github.com/learn-co-students/recommendation_systems_seattle-chicago-ds)||
-|1|Intro to neural nets| [intro_to_nn](https://github.com/learn-co-students/neural_networks_p1-chi-sea-dsc)
+|1|Intro to neural nets| [intro_to_nn](https://github.com/learn-co-students/neural_networks_p1-chi-sea-dsc)|[nn_video](https://www.youtube.com/watch?v=ehEHG76AJVE&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=56)
+|2|Keras and Tensor Flow | [keras_jupyter](https://github.com/learn-co-students/keras_and_tensorflow-chi-sea-dsc)|[keras_video](https://www.youtube.com/watch?v=t7tIpP1VnYw&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=59&t=0s)|
