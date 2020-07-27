@@ -164,3 +164,7 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |1|Recommendation Systems|[rec_notebook](https://github.com/learn-co-students/recommendation_systems_seattle-chicago-ds)||
 |1|Intro to neural nets| [intro_to_nn](https://github.com/learn-co-students/neural_networks_p1-chi-sea-dsc)|[nn_video](https://www.youtube.com/watch?v=ehEHG76AJVE&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=56)
 |2|Keras and Tensor Flow | [keras_jupyter](https://github.com/learn-co-students/keras_and_tensorflow-chi-sea-dsc)|[keras_video](https://www.youtube.com/watch?v=t7tIpP1VnYw&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=59&t=0s)|
+|3|CNN |[CNN jupyter](https://github.com/learn-co-students/cnns_seattle-chicago-ds)|[CNN_Video_part1](https://www.youtube.com/watch?v=9jXtBd2oyKo&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=60&t=0s) |
+|3|CNN |[CNN jupyter](https://github.com/learn-co-students/cnns_seattle-chicago-ds)|[CNN_Video_part2](https://www.youtube.com/watch?v=yIyZiFW7JNs&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=61&t=0s)|
+|3|Transfer Learning | [TL_jupyter](https://github.com/learn-co-students/transfer_learning_seattle-chicago-ds)|[TL Video](https://www.youtube.com/watch?v=qFMRUblGvho&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=62&t=0s)|
+|4|Big Data/Spark|[BigData_jupyter](https://github.com/learn-co-students/big-data-seattle-chicago-ds) |[BigData_Video](https://www.youtube.com/watch?v=U7nKVfFcYG8&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=63&t=0s)|
