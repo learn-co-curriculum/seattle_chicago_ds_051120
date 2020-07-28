@@ -168,3 +168,8 @@ This way, you can make changes to the notebooks on your local computer, then pus
 |3|CNN |[CNN jupyter](https://github.com/learn-co-students/cnns_seattle-chicago-ds)|[CNN_Video_part2](https://www.youtube.com/watch?v=yIyZiFW7JNs&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=61&t=0s)|
 |3|Transfer Learning | [TL_jupyter](https://github.com/learn-co-students/transfer_learning_seattle-chicago-ds)|[TL Video](https://www.youtube.com/watch?v=qFMRUblGvho&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=62&t=0s)|
 |4|Big Data/Spark|[BigData_jupyter](https://github.com/learn-co-students/big-data-seattle-chicago-ds) |[BigData_Video](https://www.youtube.com/watch?v=U7nKVfFcYG8&list=PLc6AmvC5ZybzC7QnaXyhyREbhIfUIEgSc&index=63&t=0s)|
+
+## Module 4, Week 3
+| Day | Subject | Link | Video |
+| --- | ------- | ---- | ----- |
+| 2 | Cloud Services and Deployment | [repo](https://github.com/learn-co-students/cloud-services-and-deployment-051120) | [video](https://youtu.be/o15kgGeWNtg) |
