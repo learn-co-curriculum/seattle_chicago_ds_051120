@@ -173,3 +173,8 @@ This way, you can make changes to the notebooks on your local computer, then pus
 | Day | Subject | Link | Video |
 | --- | ------- | ---- | ----- |
 | 2 | Cloud Services and Deployment | [repo](https://github.com/learn-co-students/cloud-services-and-deployment-051120) | [video](https://youtu.be/o15kgGeWNtg) |
+
+## Module 5, Week 1
+| Day | Subject | Link | Video |
+| --- | ------- | ---- | ----- |
+| 1 | Capstone Kick-off | [slides](https://docs.google.com/presentation/d/13d-UpwZyWNM28lqkNGSjIdUDlWz_-Mq9no5O_q_sgrY/edit?usp=sharing) | [video](https://youtu.be/kIe2sJahB9s) |
